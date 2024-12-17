@@ -1,0 +1,79 @@
+[
+    {
+        "SOURCE_FILE":"E:\\Projects Continued\\DataExtractorSSUP\\testvid\\20240608_100239.mp4",
+        "AUDIO_FILE_PATH":"E:\\Projects Continued\\DataExtractorSSUP\\AUDIOSAVES\\Audio-EJMzMJN.wav",
+        "START_TIMESTAMP":"3:42",
+        "END_TIMESTAMP":"4:42",
+        "CLASS_LABEL":"moo"
+    },
+    {
+        "SOURCE_FILE":"E:\\Projects Continued\\DataExtractorSSUP\\testvid\\20240608_100239.mp4",
+        "AUDIO_FILE_PATH":"E:\\Projects Continued\\DataExtractorSSUP\\AUDIOSAVES\\Audio-NbCDIhx.wav",
+        "START_TIMESTAMP":"3:42",
+        "END_TIMESTAMP":"4:42",
+        "CLASS_LABEL":"moo"
+    },
+    {
+        "SOURCE_FILE":"E:\\Projects Continued\\DataExtractorSSUP\\testvid\\20240608_100239.mp4",
+        "AUDIO_FILE_PATH":"E:\\Projects Continued\\DataExtractorSSUP\\AUDIOSAVES\\Audio-CJKiiGd.wav",
+        "START_TIMESTAMP":"3:42",
+        "END_TIMESTAMP":"4:42",
+        "CLASS_LABEL":"moo"
+    },
+    {
+        "SOURCE_FILE":"E:\\Projects Continued\\DataExtractorSSUP\\testvid\\20240608_100239.mp4",
+        "AUDIO_FILE_PATH":"E:\\Projects Continued\\DataExtractorSSUP\\AUDIOSAVES\\Audio-kgBxzxD.wav",
+        "START_TIMESTAMP":"3:42",
+        "END_TIMESTAMP":"4:42",
+        "CLASS_LABEL":"moo"
+    },
+    {
+        "SOURCE_FILE":"E:\\Projects Continued\\DataExtractorSSUP\\testvid\\20240608_100239.mp4",
+        "AUDIO_FILE_PATH":"E:\\Projects Continued\\DataExtractorSSUP\\AUDIOSAVES\\Audio-RqBSmZK.wav",
+        "START_TIMESTAMP":"3:42",
+        "END_TIMESTAMP":"4:42",
+        "CLASS_LABEL":"moo"
+    },
+    {
+        "SOURCE_FILE":"E:\\Projects Continued\\DataExtractorSSUP\\testvid\\20240608_100239.mp4",
+        "AUDIO_FILE_PATH":"E:\\Projects Continued\\DataExtractorSSUP\\AUDIOSAVES\\Audio-XSMLZfO.wav",
+        "START_TIMESTAMP":"3:42",
+        "END_TIMESTAMP":"4:42",
+        "CLASS_LABEL":"moo"
+    },
+    {
+        "SOURCE_FILE":"E:\\Projects Continued\\DataExtractorSSUP\\testvid\\20240608_100239.mp4",
+        "AUDIO_FILE_PATH":"E:\\Projects Continued\\DataExtractorSSUP\\AUDIOSAVES\\Audio-VJFzicY.wav",
+        "START_TIMESTAMP":"3:42",
+        "END_TIMESTAMP":"4:42",
+        "CLASS_LABEL":"moo"
+    },
+    {
+        "SOURCE_FILE":"E:\\Projects Continued\\DataExtractorSSUP\\testvid\\20240608_100239.mp4",
+        "AUDIO_FILE_PATH":"E:\\Projects Continued\\DataExtractorSSUP\\AUDIOSAVES\\Audio-SdHWZbq.wav",
+        "START_TIMESTAMP":"3:42",
+        "END_TIMESTAMP":"4:42",
+        "CLASS_LABEL":"moo"
+    },
+    {
+        "SOURCE_FILE":"E:\\Projects Continued\\DataExtractorSSUP\\testvid\\20240608_100239.mp4",
+        "AUDIO_FILE_PATH":"E:\\Projects Continued\\DataExtractorSSUP\\AUDIOSAVES\\Audio-AcwsyfH.wav",
+        "START_TIMESTAMP":"3:42",
+        "END_TIMESTAMP":"4:42",
+        "CLASS_LABEL":"moo"
+    },
+    {
+        "SOURCE_FILE":"E:\\Projects Continued\\DataExtractorSSUP\\testvid\\20240608_100239.mp4",
+        "AUDIO_FILE_PATH":"E:\\Projects Continued\\DataExtractorSSUP\\AUDIOSAVES\\Audio-buIKvRy.wav",
+        "START_TIMESTAMP":"2:30",
+        "END_TIMESTAMP":"2:50",
+        "CLASS_LABEL":"sleeping"
+    },
+    {
+        "SOURCE_FILE":"E:\\Projects Continued\\DataExtractorSSUP\\testvid\\20240608_100239.mp4",
+        "AUDIO_FILE_PATH":"E:\\Projects Continued\\DataExtractorSSUP\\AUDIOSAVES\\Audio-LMtZxlB.wav",
+        "START_TIMESTAMP":"2:30",
+        "END_TIMESTAMP":"2:50",
+        "CLASS_LABEL":"sleeping"
+    }
+]
